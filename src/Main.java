@@ -23,5 +23,6 @@ public class Main
         U.setPromedios(15.85f);
         System.out.println("se le daño el code a los mijines");
         System.out.println("te la comes entera");
+        System.out.println("Vamos a beber");
     }
 }
