@@ -13,7 +13,7 @@ public class Main
 
         U.setCodigo_unico("46546546DSDA");
         U.setDomicilio("una cosa");
-        U.setNotas("18,15,16,20,5");
+        U.setNotas(15.45f);
         U.setCedula("8741498");
     }
 }
