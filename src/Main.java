@@ -22,5 +22,6 @@ public class Main
         U.setCedula("8741498");
         U.setPromedios(15.85f);
         System.out.println("se le daño el code a los mijines");
+        System.out.println("te la comes entera");
     }
 }
