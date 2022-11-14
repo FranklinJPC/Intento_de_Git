@@ -16,5 +16,6 @@ public class Main
         U.setNotas(15.45f);
         U.setCedula("8741498");
         U.setPromedios(15.85f);
+        System.out.println("se le daño el code a los mijines");
     }
 }
