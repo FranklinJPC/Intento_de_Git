@@ -13,5 +13,8 @@ public class Main
 
         U.setCodigo_unico("46546546DSDA");
         U.setDomicilio("una cosa");
+        U.setNotas(47);
+
+        System.out.println("Apellido: " + U.apéllido);
     }
 }
