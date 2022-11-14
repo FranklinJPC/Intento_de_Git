@@ -16,6 +16,7 @@ public class Main
         U.setNotas(47);
 
         System.out.println("Apellido: " + U.apéllido);
+        System.out.println("Cedula: " + U.cedula);
 
     }
 }
