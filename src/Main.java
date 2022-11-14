@@ -18,6 +18,9 @@ public class Main
         System.out.println("Cedula: " + U.cedula);
 
         U.setNotas(18);
+        U.setNotas(15.45f);
         U.setCedula("8741498");
+        U.setPromedios(15.85f);
+        System.out.println("se le daño el code a los mijines");
     }
 }
