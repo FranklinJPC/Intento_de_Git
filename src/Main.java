@@ -12,5 +12,6 @@ public class Main
         System.out.println("agregue este mensaje");
 
         U.setCodigo_unico("46546546DSDA");
+        U.setDomicilio("una cosa");
     }
 }
