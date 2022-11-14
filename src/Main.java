@@ -15,5 +15,6 @@ public class Main
         U.setDomicilio("una cosa");
         U.setNotas(15.45f);
         U.setCedula("8741498");
+        U.setPromedios(15.85f);
     }
 }
