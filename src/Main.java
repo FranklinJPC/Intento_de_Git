@@ -10,5 +10,7 @@ public class Main
 
         System.out.println("Other change");
         System.out.println("agregue este mensaje");
+
+        U.setCodigo_unico("46546546DSDA");
     }
 }
