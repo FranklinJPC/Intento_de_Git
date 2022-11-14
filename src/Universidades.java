@@ -1,6 +1,7 @@
 public class Universidades
 {
-    float notas;
+    float notas,promedios;
     String codigo_unico;
+
 
 }
